@@ -1,5 +1,5 @@
 # PieChart
-Create Beautiful Pie Charts Using JavaScript, HTML or React.
+Create Beautiful Pie Charts Using JavaScript, HTML or React (In development/Currently Depricated).
 
 ### Javascript CDN
 Add to the body of your website:
