@@ -1,4 +1,7 @@
 # PieChart
+
+> This project is on hold currently!
+
 Create Beautiful Pie Charts Using JavaScript, HTML or React (In development/Currently Depricated).
 
 ### Javascript CDN
